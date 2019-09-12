@@ -75,6 +75,7 @@ gem 'carrierwave', '~> 1.0'
 gem "fog-aws"
 
 source 'https://rails-assets.org' do
-  gem 'rails-assets-tether', '>= 1.3.3'
+gem 'rails-assets-tether', '>= 1.3.3'
+gem 'simple_form'
 end
 
